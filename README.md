@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://raw.githubusercontent.com/muhmdathalla/muhmdathalla/main/assets/banner.svg" alt="Muhammad Athalla Bagaskara Banner" width="100%" />
+  <img src="./assets/banner.svg" alt="Muhammad Athalla Bagaskara Banner" width="100%" />
 
   <br/><br/>
 
