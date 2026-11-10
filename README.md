@@ -1,7 +1,9 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,100:1a1f2c&height=220&section=header&text=Muhammad%20Athalla%20Bagaskara&fontSize=40&fontAlignY=38&fontColor=ffffff&desc=Frontend%20%26%20Systems%20Engineer%20%E2%80%A2%20alDev&descAlignY=62&descAlign=50&descSize=18" alt="Athalla Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/muhmdathalla/muhmdathalla/main/assets/banner.svg" alt="Muhammad Athalla Bagaskara Banner" width="100%" />
+
+  <br/><br/>
 
   <!-- Animated Typing Tagline -->
   <a href="https://muhmdathalla.github.io/dev/">
